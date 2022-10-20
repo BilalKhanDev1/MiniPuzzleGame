@@ -860,7 +860,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_LocalRotation: {x: 0.00013292639, y: 0.04716868, z: -0.00000627695, w: 0.99888694}
+  m_LocalRotation: {x: 0.00013292229, y: 0.047168646, z: -0.000006276751, w: 0.99888694}
   m_LocalPosition: {x: -14.521535, y: -8.647326, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2296,7 +2296,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Move - A and D
 
-    Jump (x2) - Left Ctrl
+    Jump (x2) - Left Shift
 
     Reset Level - R'
 --- !u!222 &991104359
@@ -5043,7 +5043,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1793582181}
-  m_LocalRotation: {x: 0.00013292639, y: 0.04716868, z: -0.00000627695, w: 0.99888694}
+  m_LocalRotation: {x: 0.00013292229, y: 0.047168646, z: -0.000006276751, w: 0.99888694}
   m_LocalPosition: {x: -14.521535, y: -8.647326, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0

@@ -4401,7 +4401,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Move - A and D
 
-    Jump (x2) - Left Ctrl
+    Jump (x2) - Left Shift
 
     Reset Level - R'
 --- !u!222 &1887749048
